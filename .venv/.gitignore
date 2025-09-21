@@ -15,4 +15,7 @@ temp_video/
 # Файлы IDE (PyCharm)
 .idea/
 
+# Файл db sqlite с данными
+conversation_history.db
+
 
