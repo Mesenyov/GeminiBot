@@ -1,0 +1,18 @@
+# Файл с секретными данными
+.env
+
+# Виртуальное окружение Python
+.venv/
+
+# Файлы кеша Python
+__pycache__/
+*.pyc
+
+# Временные папки для аудио и видео
+temp_audio/
+temp_video/
+
+# Файлы IDE (PyCharm)
+.idea/
+
+
